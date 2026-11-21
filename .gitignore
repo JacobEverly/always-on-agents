@@ -16,3 +16,4 @@ artifacts/tool-decision-supervisor-v1/**/final-adapter.tar.gz
 artifacts/high-confidence-override-v1/**/final-adapter.tar.gz
 node_modules/
 .DS_Store
+*.egg-info/

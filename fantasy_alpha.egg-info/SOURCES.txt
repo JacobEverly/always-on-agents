@@ -19,6 +19,7 @@ evals/build_labels.py
 evals/calibbench.py
 evals/canaries.py
 evals/contract_year_test.py
+evals/current_platform_pilot.py
 evals/draftbench.py
 evals/fp_accuracy.py
 evals/gbdt_baseline.py
@@ -93,6 +94,7 @@ tests/test_outcome_headroom.py
 tests/test_outcome_ranker.py
 tests/test_outcome_ranker_validation.py
 tests/test_override_dataset.py
+tests/test_override_experiment.py
 tests/test_packet_features.py
 tests/test_play_llm_supervised.py
 tests/test_report_dashboard.py

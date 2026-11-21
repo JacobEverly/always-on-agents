@@ -6,6 +6,11 @@ This project explores agents that follow a human-led task continuously and
 intervene when they can reduce downside or surface a better action. The human
 stays in control; the agent stays in context.
 
+It continues [fantasy-alpha](https://github.com/JacobEverly/fantasy-alpha),
+the post-training research record: the Tinker SFT runs, supervisor experiments,
+and negative results that set this product boundary. This repository adds the
+decision engine, the platform pilot, and the intervention experiments.
+
 That pattern matters most in high-consequence work, clinical care, incident
 response, and complex operations, where full automation may be inappropriate
 but overlooking one signal can be costly.
